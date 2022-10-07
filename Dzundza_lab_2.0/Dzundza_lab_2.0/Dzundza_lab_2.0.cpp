@@ -16,7 +16,7 @@ int main()
 	//z2 = 4*cos(alpha/2.0)*cos(5.0/2.0*alpha)*cos(4.0*alpha);
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
-	cout << "z2 = " << z2 << endl;
+	//cout << "z2 = " << z2 << endl;
 	cin.get();
 	return 0;
 }
